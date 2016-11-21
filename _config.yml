@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Mr Keen
+name: MintyBacon
 
 # Short bio or description (displayed in the header)
-description: A few blogging ideas......
+description: That awesome person...
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: http://findicons.com/files/icons/1072/face_avatars/300/i03.png
+avatar: https://assets.materialup.com/uploads/47c6a1dc-7e95-415b-b098-318481ada353/avatar.jpeg
 
 #
 # Flags below are optional
@@ -18,10 +18,10 @@ avatar: http://findicons.com/files/icons/1072/face_avatars/300/i03.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: ske@challoners.org
-  facebook: stuart.keen.940
+  email: 
+  facebook: 
   flickr:
-  github: dcgs-ske
+  github: 
   instagram:
   linkedin:
   pinterest:
